@@ -1,0 +1,9 @@
+C:\Users\Israel\Documents\Visual Studio 2013\Projects\MiPgWeb\MiPgWeb\bin\MiPgWeb.dll.config
+C:\Users\Israel\Documents\Visual Studio 2013\Projects\MiPgWeb\MiPgWeb\bin\MiPgWeb.dll
+C:\Users\Israel\Documents\Visual Studio 2013\Projects\MiPgWeb\MiPgWeb\bin\MiPgWeb.pdb
+C:\Users\Israel\Documents\Visual Studio 2013\Projects\MiPgWeb\MiPgWeb\bin\MiPgWeb.xml
+C:\Users\Israel\Documents\Visual Studio 2013\Projects\MiPgWeb\MiPgWeb\obj\Debug\MiPgWeb.Resources.resources
+C:\Users\Israel\Documents\Visual Studio 2013\Projects\MiPgWeb\MiPgWeb\obj\Debug\MiPgWeb.vbproj.GenerateResource.Cache
+C:\Users\Israel\Documents\Visual Studio 2013\Projects\MiPgWeb\MiPgWeb\obj\Debug\MiPgWeb.dll
+C:\Users\Israel\Documents\Visual Studio 2013\Projects\MiPgWeb\MiPgWeb\obj\Debug\MiPgWeb.xml
+C:\Users\Israel\Documents\Visual Studio 2013\Projects\MiPgWeb\MiPgWeb\obj\Debug\MiPgWeb.pdb
